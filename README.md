@@ -45,9 +45,10 @@ The requirement is simple. For the [first image](https://images.unsplash.com/pho
 Furthermore, we also need to save bandwidth so apply automatic quality optimisation and make sure to serve the image up in a next-gen image format.
 
 Sample output for the transformed images:
+
 ![First image output](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/photo-1495366691023-cc4eadcc2d7e_eolq2v_rzaekf.webp)
-![Second image output with grey bag](https://res.cloudinary.com/balazs/image/upload/v1713441347/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3_iyq7a6.jpg)
-![Second image output with green bag](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
+![Second image output with grey bag](https://res.cloudinary.com/balazs/image/upload/c_fit,w_400,h_400/v1713441347/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3_iyq7a6.jpg)
+![Second image output with green bag](https://res.cloudinary.com/balazs/image/upload/c_fit,w_400,h_400/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
 
 
 HINT
