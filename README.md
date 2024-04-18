@@ -50,9 +50,18 @@ Sample output for the transformed images:
 ![Second image output with grey bag](https://res.cloudinary.com/balazs/image/upload/c_fit,w_400,h_400/v1713441347/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3_iyq7a6.jpg)
 ![Second image output with green bag](https://res.cloudinary.com/balazs/image/upload/c_fit,w_400,h_400/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
 
+Useful links:
 
+- [Cropping and resizing](https://cloudinary.com/documentation/resizing_and_cropping)
+- [Cropping position](https://cloudinary.com/documentation/resizing_and_cropping#example_3_crop_an_image_to_keep_only_the_face)
+- [Recolor](https://cloudinary.com/documentation/effects_and_artistic_enhancements#generative_recolor)
+- [Optimization](https://cloudinary.com/documentation/image_optimization)
+
+  
 HINT
 For the purposes of this challenge it doesn’t matter which Cloudinary SDK you’re going to use - pick the one that you’re most comfortable with. You can also do the optimisations and transformations by modifying the URL directly.
+In order to achaive the best optimisation, you have to work with the quality and format of the image.
+
 
 ## Step 5: Submit your work
 
