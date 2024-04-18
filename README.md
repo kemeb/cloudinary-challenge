@@ -65,7 +65,7 @@ Useful links:
   
 HINT
 For the purposes of this challenge it doesn’t matter which Cloudinary SDK you’re going to use - pick the one that you’re most comfortable with. You can also do the optimisations and transformations by modifying the URL directly.
-In order to achaive the best optimisation, you have to work with the quality and format of the image.
+In order to achive the best optimisation, you have to work with the quality and format of the image.
 
 
 ## Step 5: Submit your work
